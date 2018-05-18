@@ -1,0 +1,23 @@
+{
+  "name": "node-torrent9",
+  "version": "0.1.0",
+  "description": "Generate RSS feeds from the site Torrent9.red and use uTorrent RSS automation :-)",
+  "main": "torrent9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "jhdscript/node-torrent9",
+  "keywords": [
+    "torrent",
+    "torrent9",
+    "utorrent",
+    "leech",
+    "rss",
+    "rss torrent"
+  ],
+  "author": "jhd <jhdscript@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
