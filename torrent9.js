@@ -41,7 +41,7 @@ var urlsToScrap = [{
 var http_ip = "127.0.0.1"; //ip ou domaine du serveur web
 var http_port = 1414; //port du serveur web
 var http_title = "Torrent9 RSS";
-var torrent9_url = "http://www.torrent9.red";
+var torrent9_url = "http://www.t9.re";
 
 var torrentsId = {};
 var lastUpdate = (new Date()).toGMTString();
