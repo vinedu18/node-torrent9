@@ -4,19 +4,19 @@ var fs = require('fs');
 
 var urlsToScrap = [{
     "type": "movies",
-    "link": "/torrents_films.html,page-0"
+    "link": "/torrents/films/"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-1"
+    "link": "/torrents/films/51"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-2"
+    "link": "/torrents/films/101"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-3"
+    "link": "/torrents/films/151"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-4"
+    "link": "/torrents/films/201"
   },
 
 
@@ -40,8 +40,8 @@ var urlsToScrap = [{
 
 var http_ip = "127.0.0.1"; //ip ou domaine du serveur web
 var http_port = 1414; //port du serveur web
-var http_title = "Torrent9 RSS";
-var torrent9_url = "http://www.torrent9.red";
+var http_title = "Oxtorrent RSS";
+var torrent9_url = "https://www.oxtorrent.com/";
 
 var torrentsId = {};
 var lastUpdate = (new Date()).toGMTString();
