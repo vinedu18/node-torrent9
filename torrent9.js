@@ -10,13 +10,13 @@ var urlsToScrap = [{
     "link": "/torrents/films/51"
   }, {
     "type": "movies",
-    "link": "/torrents/films/"
-  }, {
-    "type": "movies",
     "link": "/torrents/films/101"
   }, {
     "type": "movies",
     "link": "/torrents/films/151"
+  }, {
+    "type": "movies",
+    "link": "/torrents/films/201"
   },
 
 
