@@ -4,19 +4,19 @@ var fs = require('fs');
 
 var urlsToScrap = [{
     "type": "movies",
-    "link": "/torrents_films.html,page-0"
+    "link": "/torrents/films/"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-1"
+    "link": "/torrents/films/51"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-2"
+    "link": "/torrents/films/"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-3"
+    "link": "/torrents/films/101"
   }, {
     "type": "movies",
-    "link": "/torrents_films.html,page-4"
+    "link": "/torrents/films/151"
   },
 
 
